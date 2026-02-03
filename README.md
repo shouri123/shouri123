@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Shouri<br>Aspiring developer diving deep into Generative AI, Agentic systems, AI/ML, and NLP. I love exploring new AI tools, experimenting with emerging tech, and building things that make computers feel a little smarter.<br><br>🚀 What I Work With<br>Languages: Python, C, C++, JavaScript<br>Database: MySQL<br>Focus Areas: GenAI, LLMs, NLP systems<br>Extras: A bit of prompt engineering + a big love for coding agents and ai tools <br><br>🌱 Currently Exploring<br>Building and testing agentic workflows<br>Understanding LLM reasoning and tool-use<br>Experimenting with new AI tools and platforms<br>Prototyping creative ML/NLP applications<br><br>🎯 What Drives Me<br>Curiosity. I enjoy breaking concepts down, trying bold ideas, and pushing boundaries with AI. Whether it’s a new tool, a coding agent, or a fresh model architecture — if it’s interesting, I’m jumping in.<br><br>📫 Let’s Connect<br>Open to collaborations, discussions, experiments, and anything AI-powered.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shourichakraborty/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouri-chakraborty-224b5330b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakrabortyshouri@gmail.com) 
 
