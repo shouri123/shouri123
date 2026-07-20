@@ -119,13 +119,14 @@ I focus on bridging the gap between cutting-edge AI research and production-grad
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouri123&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Shouri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouri123&theme=dark&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shouri123&theme=dark&timezone=Asia/Kolkata" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=shouri123&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shouri123&layout=compact&theme=dark)
+
+![](https://nirzak-streak-stats.vercel.app/?user=shouri123&theme=dark&timezone=Asia/Kolkata)
+
+</div>
 
 ---
 
