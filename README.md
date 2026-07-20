@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-banner.png" alt="Shouri Chakraborty Banner" width="100%" />
+  <img src="assets/space-shooter.gif" alt="Space Shooter Animation" width="100%" />
 </p>
 
 <div align="center">
@@ -66,16 +66,6 @@ I focus on bridging the gap between cutting-edge AI research and production-grad
 
 ---
 
-## 🕹️ Creative Systems & Graphics
-
-<p align="center">
-  <img src="assets/space-shooter-minimal.png" alt="Minimalist Space Shooter Aesthetic" width="100%" />
-</p>
-
-*Minimalist dark-mode game graphics & vector engine experiments.*
-
----
-
 ## 🚀 Currently Building & Exploring
 
 ```text
@@ -127,15 +117,15 @@ I focus on bridging the gap between cutting-edge AI research and production-grad
 
 ---
 
-## 📊 Engineering Metrics & Activity
+## 📊 GitHub Analytics
 
-<div align="center">
-
-| 📊 **GitHub Activity** | ⚡ **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=shouri123&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouri123&theme=github_dark&hide_border=true&layout=compact" width="350" /> |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shouri123&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Shouri's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouri123&theme=dark&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shouri123&theme=dark&timezone=Asia/Kolkata" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
