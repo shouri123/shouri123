@@ -1,0 +1,21 @@
+name: Update GitHub Activity Feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update README Activity
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.4.4
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "chore: update recent open-source activity feed [skip ci]"
+          MAX_LINES: 5

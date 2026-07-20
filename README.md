@@ -1,29 +1,144 @@
 <p align="center">
-  <img src="assets/space-shooter.gif" />
+  <img src="assets/hero-banner.png" alt="Shouri Chakraborty Banner" width="100%" />
 </p>
 
-# 💫 About Me:
-👋 Hi, I’m Shouri<br>Aspiring developer diving deep into Generative AI, Agentic systems, AI/ML, and NLP. I love exploring new AI tools, experimenting with emerging tech, and building things that make computers feel a little smarter.<br><br>🚀 What I Work With<br>Languages: Python, C, C++, JavaScript<br>Database: MySQL<br>Focus Areas: GenAI, LLMs, NLP systems<br>Extras: A bit of prompt engineering + a big love for coding agents and ai tools <br><br>🌱 Currently Exploring<br>Building and testing agentic workflows<br>Understanding LLM reasoning and tool-use<br>Experimenting with new AI tools and platforms<br>Prototyping creative ML/NLP applications<br><br>🎯 What Drives Me<br>Curiosity. I enjoy breaking concepts down, trying bold ideas, and pushing boundaries with AI. Whether it’s a new tool, a coding agent, or a fresh model architecture — if it’s interesting, I’m jumping in.<br><br>📫 Let’s Connect<br>Open to collaborations, discussions, experiments, and anything AI-powered.
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shourichakraborty/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouri-chakraborty-224b5330b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakrabortyshouri@gmail.com) 
+# Shouri Chakraborty
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### **Building Autonomous AI Agents, GenAI Systems & Developer Tools**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shouri123&theme=dark&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=shouri123&theme=dark&timezone=Asia/Kolkata)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shouri123&theme=github-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shouri123&layout=compact&theme=dark)
+*Engineering agentic workflows, LLM tool-use architectures, and NLP systems.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shouri123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouri-chakraborty-224b5330b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chakrabortyshouri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shouri123)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shouri123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## ⚡ About & Engineering Philosophy
+
+I focus on bridging the gap between cutting-edge AI research and production-grade developer tooling. My work centers around **autonomous agents**, **tool-augmented LLM reasoning**, and **NLP systems** designed for developer productivity.
+
+- 🤖 **Focus**: Multi-agent orchestration, Model Context Protocol (MCP), and reasoning workflows.
+- 💡 **Philosophy**: Clean code, zero fluff, measurable impact, and human-centric AI tools.
+
+---
+
+## 🎯 Featured Flagship Work
+
+<div align="center">
+
+| 🤖 **Autonomous AI Workflows & Agentic Systems** |
+| :--- |
+| **Problem**: Standard LLM pipelines lack contextual memory and autonomous multi-tool execution capability.<br>**Solution**: Built an agentic framework featuring context management, dynamic tool invocation, and low-latency reasoning.<br><br>**Tech Stack**: `Python` • `PyTorch` • `Model Context Protocol (MCP)` • `FastAPI` • `Supabase`<br><br>👉 **[Explore Projects & Codebase →](https://github.com/shouri123)** |
+
+</div>
+
+---
+
+## 🏆 Open Source Impact & Live Activity
+
+<table width="100%">
+<tr>
+  <td width="50%" valign="top">
+    <h4>📈 Open Source Metrics & Impact</h4>
+    <ul>
+      <li><b>Open Source Maintainer & Contributor</b></li>
+      <li><b>Active Pull Requests & Code Reviews</b></li>
+      <li><b>Agentic Systems & AI Tooling Focus</b></li>
+    </ul>
+  </td>
+  <td width="50%" valign="top">
+    <h4>🔥 Recent Activity Feed</h4>
+
+<!-- RECENT_ACTIVITY:START -->
+*Automatically updated via GitHub Actions*
+<!-- RECENT_ACTIVITY:END -->
+
+  </td>
+</tr>
+</table>
+
+---
+
+## 🕹️ Creative Systems & Graphics
+
+<p align="center">
+  <img src="assets/space-shooter-minimal.png" alt="Minimalist Space Shooter Aesthetic" width="100%" />
+</p>
+
+*Minimalist dark-mode game graphics & vector engine experiments.*
+
+---
+
+## 🚀 Currently Building & Exploring
+
+```text
+┌── CURRENT FOCUS (2026) ────────────────────────────────────────────────────────┐
+│  • Agentic Workflows    → Contextual memory & tool-use reasoning              │
+│  • MCP Integrations     → Protocol handlers for developer agents              │
+│  • LLM Optimization     → Quantization, prompt engineering, fine-tuning       │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+<table width="100%">
+<tr>
+  <td width="33%" valign="top">
+    <h4>🤖 AI / ML & Agents</h4>
+    <ul>
+      <li>Python / PyTorch</li>
+      <li>LLM Tool-Use & Agents</li>
+      <li>NLP & GenAI Systems</li>
+      <li>scikit-learn / TensorFlow</li>
+      <li>Pandas & NumPy</li>
+    </ul>
+  </td>
+  <td width="33%" valign="top">
+    <h4>💻 Core Systems</h4>
+    <ul>
+      <li>Python / C++ / C</li>
+      <li>JavaScript / TypeScript</li>
+      <li>MySQL / Supabase</li>
+      <li>Git / GitHub Actions</li>
+      <li>REST & Microservices</li>
+    </ul>
+  </td>
+  <td width="33%" valign="top">
+    <h4>🌐 Web & Deployment</h4>
+    <ul>
+      <li>React / Vite</li>
+      <li>Flask / FastAPI</li>
+      <li>HTML5 & CSS3</li>
+      <li>Vercel / Render</li>
+      <li>Windows Terminal</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+---
+
+## 📊 Engineering Metrics & Activity
+
+<div align="center">
+
+| 📊 **GitHub Activity** | ⚡ **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=shouri123&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouri123&theme=github_dark&hide_border=true&layout=compact" width="350" /> |
+
+</div>
+
+---
+
+<p align="center">
+  <sub>Designed with minimalism • Open for AI research & engineering collaborations</sub>
+</p>
