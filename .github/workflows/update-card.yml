@@ -1,0 +1,43 @@
+name: Daily Profile Card & Uptime Refresh
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/update_card.py'
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    name: Refresh Uptime & Stats
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update Profile Cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/update_card.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(bot): daily profile uptime & stats refresh [skip ci]"
+            git push
+          else
+            echo "No changes detected in profile cards."
+          fi
