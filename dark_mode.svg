@@ -61,7 +61,7 @@ text, tspan {white-space: pre;}
 <text x="525" y="30" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="14.5">
 <tspan x="525" y="28"><tspan class="value">shouri@chakraborty</tspan><tspan class="cc"> -————————————————————————————-—-</tspan></tspan>
 <tspan x="525" y="48"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Windows, Linux</tspan></tspan>
-<tspan x="525" y="68"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">20 years, 7 months, 9 days</tspan></tspan>
+<tspan x="525" y="68"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">20 years, 7 months, 10 days</tspan></tspan>
 <tspan x="525" y="88"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Kolkata, India (IEM Kolkata)</tspan></tspan>
 <tspan x="525" y="108"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">AI Developer &amp; Open Source Maintainer</tspan></tspan>
 <tspan x="525" y="128"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">VS Code, Antigravity, Cursor</tspan></tspan>
@@ -85,7 +85,7 @@ text, tspan {white-space: pre;}
 <tspan x="525" y="480"><tspan class="cc">. </tspan><tspan class="value">Aven</tspan> &amp; <tspan class="value">Chat-Buddy</tspan>: <tspan class="value">Multi-Agent MAMWA &amp; OpenAI Agents SDK</tspan></tspan>
 <tspan x="525" y="500"><tspan class="cc">. </tspan></tspan>
 <tspan x="525" y="518"><tspan class="value">- Verified GitHub &amp; OSS Stats</tspan><tspan class="cc"> -————————————————————————-—-</tspan></tspan>
-<tspan x="525" y="538"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value">19</tspan> | <tspan class="key">Stars</tspan>: <tspan class="value">45</tspan> | <tspan class="key">Forks</tspan>: <tspan class="value">97</tspan> | <tspan class="key">Followers</tspan>: <tspan class="value">23</tspan></tspan>
+<tspan x="525" y="538"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value">19</tspan> | <tspan class="key">Stars</tspan>: <tspan class="value">46</tspan> | <tspan class="key">Forks</tspan>: <tspan class="value">97</tspan> | <tspan class="key">Followers</tspan>: <tspan class="value">23</tspan></tspan>
 <tspan x="525" y="558"><tspan class="cc">. </tspan><tspan class="key">Contributions</tspan>: <tspan class="value">1,470+</tspan> | <tspan class="key">PR Reviews</tspan>: <tspan class="value">273+</tspan> (GSSoC Admin)</tspan>
 <tspan x="525" y="578"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="value">384,120</tspan> ( <tspan class="addColor">892,410</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">508,290</tspan><tspan class="delColor">--</tspan> )</tspan>
 </text>
